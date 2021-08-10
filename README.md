@@ -1,5 +1,3 @@
-[WIP]
-
 # Opinionated React Template
 
 This is a template repository used to quickly bootstrap ReactJS applications.
@@ -16,3 +14,7 @@ This is a template repository used to quickly bootstrap ReactJS applications.
 
 - Run `yarn install` in the root directory
 - Run `yarn run start` in the root directory to start the frontend
+
+### Credits & References
+
+- Thanks to UoA Web Development Consulting Club's President Raymond Feng (Github: Ray-F) for his MERN Template
