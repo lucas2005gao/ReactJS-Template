@@ -1,6 +1,6 @@
 # Opinionated React Template
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a template repository used to quickly bootstrap ReactJS applications.
@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/lucas2005gao"><img src="https://avatars.githubusercontent.com/u/48196609?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucas Gao</b></sub></a><br /><a href="https://github.com/lucas2005gao/REACT Template/commits?author=lucas2005gao" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Will-ZYS"><img src="https://avatars.githubusercontent.com/u/54428242?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Will-ZYS</b></sub></a><br /><a href="#mentoring-Will-ZYS" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
