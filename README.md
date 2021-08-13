@@ -20,6 +20,8 @@ This is a template repository used to quickly bootstrap ReactJS applications.
 
 ![Material UI Icons](https://img.shields.io/badge/library-materialui--icons-green)
 
+![[Documentation git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton)](https://img.shields.io/badge/documentation-git--wiki--skeleton-ff69b4)
+
 ### Setup & Run
 
 - Run `yarn install` in the root directory
