@@ -1,6 +1,9 @@
 # Opinionated React Template
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a template repository used to quickly bootstrap ReactJS applications.
@@ -12,6 +15,10 @@ This is a template repository used to quickly bootstrap ReactJS applications.
 ![ReactJS](https://img.shields.io/badge/Framework-React%20JS-lightblue)
 
 ![React Router](https://img.shields.io/badge/Routing-react--router-orange)
+
+![Material UI](https://img.shields.io/badge/library-materialui-blue)
+
+![Material UI Icons](https://img.shields.io/badge/library-materialui--icons-green)
 
 ### Setup & Run
 
