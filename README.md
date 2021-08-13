@@ -24,6 +24,7 @@ This is a template repository used to quickly bootstrap ReactJS applications.
 
 ### Setup & Run
 
+- Update `title` and `baseurl` in docs/\_config.yml to be your repository name
 - Run `yarn install` in the root directory
 - Run `yarn run start` in the root directory to start the frontend
 
