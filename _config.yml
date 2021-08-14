@@ -3,7 +3,7 @@ remote_theme: Drassil/git-wiki-theme@master
 title: "ReactJS-Template"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: "/ReactJS-Template/docs"
+baseurl: "/ReactJS-Template"
 # (string) Description of your wiki
 description:
 # (boolean) Enable/disable wiki page list in sidebar
@@ -49,7 +49,7 @@ google_cse_token:
 
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
 # If you have _config.yml and your site in a subfolder, then change this config accordly
-site_root: "docs"
+site_root: ""
 
 #
 # Jekyll configurations
@@ -73,7 +73,7 @@ defaults:
     values:
       permalink: /:basename
   - scope:
-      path: "docs" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-default"
   - scope:
